@@ -1,0 +1,14 @@
+{
+  "id": "anydo",
+  "name": "Anydo",
+  "version": "1.0.0",
+  "description": "Anydo recipe for Franz 5+",
+  "main": "index.js",
+  "author": "Baboo7 <dbsharp404@gmail.com>",
+  "license": "MIT",
+  "repository": "git@github.com:Baboo7/recipe-anydo.git",
+  "config": {
+    "serviceURL": "https://desktop.any.do",
+    "hasTeamId": false
+  }
+}
